@@ -2,4 +2,7 @@ Testing this out!
 Me too (Grady)
 
 
-Edit 1 - Adding my stuff to this wheeeee (Erick)
+Adding my stuff to this wheeeee (Erick)
+
+Hey guys I changed stuff in the html too (Dan) 
+Erick I deleted your Edit 1 comment (Dan)
